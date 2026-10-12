@@ -112,3 +112,4 @@ Thumbs.db
 /visualizacion/tests/test_server.py
 /visualizacion/tests/ui_review.acceptance.py
 /visualizacion/tests/ui_v2_acceptance.py
+/visualizacion/tests/ui_essity.py

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "reference_date": "2026-10-06",
+  "model_version": "2027.1",
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-01",
+  "population_year": 2025,
+  "degurba_year": 2021,
+  "age_weights": [1.0, 2.0, 3.0],
+  "distance_exponent": 2.0,
+  "distance_offset_m": 100.0,
+  "candidate_radius_m": 3000.0,
+  "demand_grid_m": 250.0,
+  "high_sb_quantile": 0.75,
+  "category_cutoffs": [0.2, 0.5, 0.75],
+  "sensitivity_relative_threshold": 0.2,
+  "pilot_size": 24,
+  "random_seed": 2027
+}

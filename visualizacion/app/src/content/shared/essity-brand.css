@@ -1,0 +1,15 @@
+.essity-brand-logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  padding: 8px 10px;
+  margin-inline-end: 4px;
+  border-radius: 4px;
+  background: #fff;
+}
+.essity-brand-logo img { display: block; width: 112px; height: 28px; object-fit: contain; }
+@media (max-width: 599px) {
+  .essity-brand-logo { padding: 6px 8px; margin-inline-end: 0; }
+  .essity-brand-logo img { width: 76px; height: 19px; }
+}
